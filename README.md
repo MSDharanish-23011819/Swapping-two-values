@@ -30,7 +30,7 @@ b=temp
 print("Swapped values are:",a,b)
   
 ```
-## oUTPUT:
+## OUTPUT:
  ![Screenshot from 2023-10-29 21-04-12](https://github.com/MSDharanish-23011819/Swapping-two-values/assets/147139454/c09d424c-f381-4b7e-9233-8c21b7cb35ab)
 
 ## RESULT:
